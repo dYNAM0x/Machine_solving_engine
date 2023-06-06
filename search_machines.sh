@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#Este es un script en base al buscador de resolución de máquinas de HackThebox de s4vitar, https://htbmachines.github.io/ 
 #Colours
 greenColour="\e[0;32m\033[1m"
 endColour="\033[0m\e[0m"
