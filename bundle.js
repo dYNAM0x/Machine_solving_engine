@@ -1,4 +1,6 @@
 /*! For license information please see bundle.js.LICENSE.txt */
+/* ESTE ARCHIVO NO ES DE MI AUTORIDAD, HAGO USO DE ESTE CÓDIGO DE LA PÁGINA DEL BUSCADOR DE MÁQUINAS DE S4VITAR, https://htbmachines.github.io/
+ HAGO USO DE EL PORQUE LO REQUIERE EL SCRIPT HECHO EN BASH */
 (() => {
     var e, t, n = {
             640: (e, t, n) => {
